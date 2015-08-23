@@ -9,6 +9,7 @@ This repo contains
 ### run_analysis.R
 
 This file 
+
 1. reads in the feature labels and cleans them. This includes fixing typos and mistakes (according to my
 reading of the documenation.). It also renames each variable following a logical naming convention.
 2. reads in the activity labels and cleans them. This mainly is formatting.
