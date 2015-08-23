@@ -200,25 +200,25 @@ getAttributedTo <- function(codeWord) {
 # move from most specific description to least specific solution.
 getWhat <- function(codeWord){
     if (grepl("angle", codeWord)) {
-        "The angle between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample."
+        "The angle in radians between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample."
     }
     else if (grepl("AccelerationMagnitude", codeWord)){
         "The magnitude of the acceleration as measured by the phone's accelerometer, calculated using the Euclidean norm."
     }
     else if (grepl("Acceleration", codeWord)) {
-        "The tri-axial acceleration as measured by the phone's acclerometer."
+        "The tri-axial acceleration in standard g units as measured by the phone's acclerometer."
     }
     else if (grepl("AngularJerkMagnitude", codeWord)) {
         "The magnitude of the angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm."
     }
     else if (grepl("AngularJerk", codeWord)) {
-        "The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm."
+        "The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope)."
     }
     else if (grepl("JerkMagnitude", codeWord)){
         "The magnitude of the jerk (derived in time from acceleration as measured by the phone's acclerometer), calculated using the Euclidean norm."
     }
     else if (grepl("Jerk", codeWord)){
-        "The jerk (derived in time from linear acceleration as measured by the phone's accelerometer)."
+        "The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer)."
     }
     else if (grepl("AngularVelocityMagnitude", codeWord)) {
         "The magnitude of the angular velocity as measured by the phone's gyroscope, calculated using the Euclidean norm."
