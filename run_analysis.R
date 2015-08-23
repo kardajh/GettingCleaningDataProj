@@ -12,14 +12,14 @@ library(dplyr)
 # Assumes data has already been downloaded and put into directory "data" and unzipped.
 # Eg:
 # download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip", destfile="data/samsung.zip", method="curl")
-# unzip("data/samsung.zip", exdir = "data/")
-# list.files("data")
+# unzip("data/samsung.zip", exdir = ".")
+# list.files("UCI HAR Dataset")
 # Files are located in various sub directories as specifie by zip file, separated by train and test.
 
 #
 # Step 1. Read in the feature names and clean.
 #
-features <- read.table("data/UCI HAR Dataset/features.txt", 
+features <- read.table("UCI HAR Dataset/features.txt", 
                        header= FALSE, stringsAsFactors = FALSE)
 # Problem:  There are quite a few typos in this document and none of these are 
 # valid column names. There are typos, invalid characters, 
@@ -59,7 +59,7 @@ new_names <- gsub("tGravity", "Gravity", new_names)
 #
 # Step 2. Read in activity labels and prettify them. 
 #
-activity_labels <- read.table("data/UCI HAR Dataset/activity_labels.txt", 
+activity_labels <- read.table("UCI HAR Dataset/activity_labels.txt", 
                               stringsAsFactors = FALSE)
 # Problem: they are all upper case with underscores. Hard to read. 'Laying' is incorrect English.
 # Prefer: TitleCaseWithNoSpaces. Change 'Laying' to 'LyingDown'.
@@ -82,7 +82,7 @@ data_set_names = list("test", "train")
 
 # read in both activity data sets into list "activities"
 activities <- lapply(data_set_names, function(name){
-   read.table(paste0("data/UCI HAR Dataset/", name, "/y_", name, ".txt"), 
+   read.table(paste0("UCI HAR Dataset/", name, "/y_", name, ".txt"), 
               stringsAsFactors = FALSE, header = FALSE) 
 })
 
@@ -93,13 +93,13 @@ labelled_Activities <- lapply(activities, function(activity){
 
 # read in both subject Id files:
 subject_ids <- lapply(data_set_names, function(name){
-    read.table(paste0("data/UCI HAR Dataset/", name, "/subject_", name, ".txt"), 
+    read.table(paste0("UCI HAR Dataset/", name, "/subject_", name, ".txt"), 
                stringsAsFactors = FALSE, header = FALSE)
 })
 
 # read in feature data
 feature_data <- lapply(data_set_names, function(name){
-    read.table(paste0("data/UCI HAR Dataset/", name, "/X_", name, ".txt"), 
+    read.table(paste0("UCI HAR Dataset/", name, "/X_", name, ".txt"), 
                stringsAsFactors = FALSE, header = FALSE)
 })
 
@@ -154,7 +154,7 @@ write.table(tidy_summary, file="tidy_summary.txt", row.names = FALSE)
 # The other parts of the codebook are written by hand and this part is copied in.
 
 # First import the proper definitions of the functions applied to the features. 
-feature_defn <- readLines("data/UCI HAR Dataset/features_info.txt", n = 49)
+feature_defn <- readLines("UCI HAR Dataset/features_info.txt", n = 49)
 # need only lines 33-48, leave angle(), we detect that manually.
 feature_defn <- feature_defn[33:48]
 # remove brackets from definitions
