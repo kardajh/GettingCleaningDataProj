@@ -20,5 +20,5 @@ this data set.
 
 ### CodeBook.md
 
-This file explains the source of the data, the original pre-processing performed, and the cleaning steps I took and why. 
-It includes the definitions of all variables. 
+This file explains the source of the data, the original pre-processing performed, and the cleaning steps I took and why. The assignment clearly stated the "codebook should describe the data and any transformations or work that you performed." Perhaps its better in this file? Not sure. 
+It includes the definitions of all variables in the tidy data set. 
