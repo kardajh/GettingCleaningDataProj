@@ -74,723 +74,724 @@ The unique identifier of the human volunteer (subject) who performed the six act
 ####  ActivityType
 
 The description of the activity that the volunteer performed. They wore the phone on a belt while performing these activites, and the data were later manually labelled. There are 6 activity types and each volunteer did them all. The activity types are Walking, walking upstairs, walking downstairs, sitting, lying down, and standing.
+
 ####  SubjectAcceleration.mean.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.mean.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.mean.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.std.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.std.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.std.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.mad.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.mad.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.mad.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.max.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.max.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.max.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.min.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.min.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.min.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.sma 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as signal magnitude area. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as signal magnitude area. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.energy.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.energy.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.energy.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.iqr.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.iqr.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.iqr.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.entropy.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.entropy.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.entropy.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.X.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.X.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.X.3 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.X.4 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.Y.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.Y.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.Y.3 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.Y.4 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.Z.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.Z.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.Z.3 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.arCoeff.Z.4 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.correlation.X.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.correlation.X.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAcceleration.correlation.Y.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  GravityAcceleration.mean.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.mean.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.mean.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.std.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.std.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.std.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.mad.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.mad.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.mad.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.max.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.max.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.max.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.min.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.min.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.min.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.sma 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as signal magnitude area. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as signal magnitude area. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.energy.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.energy.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.energy.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.iqr.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.iqr.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.iqr.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.entropy.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.entropy.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.entropy.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.X.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.X.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.X.3 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.X.4 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.Y.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.Y.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.Y.3 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.Y.4 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.Z.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.Z.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.Z.3 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.arCoeff.Z.4 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.correlation.X.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.correlation.X.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  GravityAcceleration.correlation.Y.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to Gravity. 
  
 
 
 ####  SubjectJerk.mean.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.mean.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.mean.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.std.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.std.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.std.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.mad.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.mad.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.mad.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.max.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.max.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.max.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.min.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.min.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.min.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.sma 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as signal magnitude area. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as signal magnitude area. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.energy.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.energy.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.energy.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.iqr.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.iqr.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.iqr.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.entropy.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.entropy.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.entropy.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.X.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.X.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.X.3 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.X.4 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.Y.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.Y.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.Y.3 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.Y.4 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.Z.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.Z.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.Z.3 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.arCoeff.Z.4 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.correlation.X.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.correlation.X.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectJerk.correlation.Y.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
@@ -1036,241 +1037,241 @@ The tri-axial angular velocity in radians per second as measured by the phone's 
 
 ####  SubjectAngularJerk.mean.X 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.mean.Y 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.mean.Z 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as mean value. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.std.X 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.std.Y 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.std.Z 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as standard deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.mad.X 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.mad.Y 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.mad.Z 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as median absolute deviation. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.max.X 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.max.Y 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.max.Z 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as largest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.min.X 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.min.Y 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.min.Z 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as smallest value in array. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.sma 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm.  Evaluated as signal magnitude area. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope).  Evaluated as signal magnitude area. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.energy.X 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.energy.Y 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.energy.Z 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.iqr.X 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.iqr.Y 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.iqr.Z 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as interquartile range. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.entropy.X 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.entropy.Y 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.entropy.Z 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as signal entropy. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.X.1 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.X.2 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.X.3 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.X.4 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.Y.1 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.Y.2 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.Y.3 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.Y.4 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.Z.1 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.Z.2 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.Z.3 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.arCoeff.Z.4 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Z direction. Evaluated as autorregresion coefficients with burg order equal to 4. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.correlation.X.Y 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.correlation.X.Z 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the X direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
 ####  SubjectAngularJerk.correlation.Y.Z 
 
-The angular jerk (angular velocity as measured by the phone's gyroscope and derived in time), calculated using the Euclidean norm. Measured in the Y direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
+The angular jerk in radians per second cubed (derived in time from angular velocity as measured by the phone's gyroscope). Measured in the Y direction. Evaluated as correlation coefficient between two signals. A time domain variable captured at a constant rate of 50hz. Attributed to the human Subject (volunteer). 
  
 
 
@@ -1666,949 +1667,949 @@ The magnitude of the angular jerk (angular velocity as measured by the phone's g
 
 ####  fSubjectAcceleration.mean.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.mean.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.mean.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.std.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.std.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.std.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.mad.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.mad.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.mad.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.max.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.max.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.max.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.min.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.min.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.min.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.sma 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as signal magnitude area. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as signal magnitude area. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.energy.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.energy.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.energy.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.iqr.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.iqr.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.iqr.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.entropy.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.entropy.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.entropy.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.maxInds.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.maxInds.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.maxInds.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.meanFreq.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.meanFreq.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.meanFreq.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.skewness.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.kurtosis.X 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the X direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the X direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.skewness.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.kurtosis.Y 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Y direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.skewness.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.kurtosis.Z 
 
-The tri-axial acceleration as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer. Measured in the Z direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.1.8 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.9.16 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.17.24 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.25.32 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.33.40 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.41.48 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.49.56 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.57.64 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.1.16 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.17.32 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.33.48 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.49.64 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.1.24 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.25.48 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.1.8.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.9.16.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.17.24.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.25.32.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.33.40.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.41.48.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.49.56.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.57.64.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.1.16.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.17.32.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.33.48.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.49.64.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.1.24.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.25.48.1 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.1.8.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.9.16.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.17.24.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.25.32.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.33.40.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.41.48.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.49.56.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.57.64.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.1.16.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.17.32.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.33.48.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.49.64.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.1.24.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectAcceleration.bandsEnergy.25.48.2 
 
-The tri-axial acceleration as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The tri-axial acceleration in standard g units as measured by the phone's acclerometer.  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.mean.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.mean.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.mean.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as mean value. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.std.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.std.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.std.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as standard deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.mad.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.mad.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.mad.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as median absolute deviation. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.max.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.max.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.max.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as largest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.min.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.min.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.min.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as smallest value in array. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.sma 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as signal magnitude area. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as signal magnitude area. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.energy.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.energy.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.energy.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as energy measure - sum of the squares divided by the number of values. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.iqr.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.iqr.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.iqr.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as interquartile range. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.entropy.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.entropy.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.entropy.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as signal entropy. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.maxInds.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.maxInds.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.maxInds.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as index of the frequency component with largest magnitude. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.meanFreq.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.meanFreq.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.meanFreq.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as weighted average of the frequency components to obtain a mean frequency. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.skewness.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.kurtosis.X 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the X direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.skewness.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.kurtosis.Y 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Y direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.skewness.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as skewness of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.kurtosis.Z 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer). Measured in the Z direction. Evaluated as kurtosis of the frequency domain signal. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.1.8 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.9.16 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.17.24 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.25.32 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.33.40 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.41.48 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.49.56 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.57.64 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.1.16 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.17.32 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.33.48 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.49.64 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.1.24 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.25.48 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.1.8.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.9.16.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.17.24.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.25.32.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.33.40.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.41.48.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.49.56.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.57.64.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.1.16.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.17.32.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.33.48.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.49.64.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.1.24.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.25.48.1 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.1.8.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.9.16.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.17.24.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.25.32.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.33.40.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.41.48.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.49.56.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.57.64.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.1.16.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.17.32.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.33.48.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.49.64.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.1.24.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
 ####  fSubjectJerk.bandsEnergy.25.48.2 
 
-The jerk (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
+The jerk in standard g units per second (derived in time from linear acceleration as measured by the phone's accelerometer).  Evaluated as energy of a frequency interval within the 64 bins of the fft of each window.. A frequency domain variable, the result of a Fast Fourier Transform. Attributed to the human Subject (volunteer). 
  
 
 
@@ -3400,43 +3401,43 @@ The magnitude of the angular jerk (angular velocity as measured by the phone's g
 
 ####  angle.SubjectAccelerationMean.gravityMean. 
 
-The angle between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
+The angle in radians between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
  
 
 
 ####  angle.SubjectJerkMean.gravityMean. 
 
-The angle between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
+The angle in radians between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
  
 
 
 ####  angle.SubjectAngularVelocityMean.gravityMean. 
 
-The angle between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
+The angle in radians between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
  
 
 
 ####  angle.SubjectAngularJerkMean.gravityMean. 
 
-The angle between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
+The angle in radians between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
  
 
 
 ####  angle.X.gravityMean. 
 
-The angle between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
+The angle in radians between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
  
 
 
 ####  angle.Y.gravityMean. 
 
-The angle between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
+The angle in radians between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
  
 
 
 ####  angle.Z.gravityMean. 
 
-The angle between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
+The angle in radians between the two vectors. Each of these additional vectors was obtained by averaging the signals in a signal window sample.   A time domain variable captured at a constant rate of 50hz.  
  
 
 
